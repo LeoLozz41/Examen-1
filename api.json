@@ -1,0 +1,97 @@
+[
+    {
+        "precio": 4500.000,
+        "id": 1,
+        "titte": "Candi Mix",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/descarga.png"
+
+    },
+
+    {
+        "precio": 6000.00,
+        "id": 2,
+        "titte": "guitarra",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/png-transparent-guitar-music-rock-thumbnail.png"
+
+    },
+
+    {
+        "precio": 10000.00,
+        "id": 3,
+        "titte": "guitarra",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/png-clipart-electric-guitar-electric-guitar.png"
+
+    },
+
+    {
+        "precio": 13000.00,
+        "id": 4,
+        "titte": "Bateria",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/61MtzqkFTBL._AC_UF1000,1000_QL80_.jpg"
+
+    },
+
+    {
+        "precio": 7000.00,
+        "id": 5,
+        "titte": "Bajo Ibanez",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/bajo%202.jpg"
+
+    },
+
+    {
+        "precio": 12000.00,
+        "id": 6,
+        "titte": "Bajo Fender",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/bajo.jpg"
+
+    },
+
+    {
+        "precio": 700.00,
+        "id": 7,
+        "titte": "Flauta",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/flauta.jpg"
+
+    },
+
+    {
+        "precio": 1000.00,
+        "id": 8,
+        "titte": "Microfono",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/microfono.jpg"
+
+    },
+
+    {
+        "precio": 500.00,
+        "id": 9,
+        "titte": "Pandereta",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/pandereta.jpg"
+
+    },
+
+    {
+        "precio": 40000.000,
+        "id": 10,
+        "titte": "Piano",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/piano.jpg"
+
+    },
+
+    {
+        "precio": 7000.00,
+        "id": 11,
+        "titte": "Teclado",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/teclado.jpg"
+
+    },
+    
+    {
+        "precio": 4200.00,
+        "id": 12,
+        "titte": "Trompeta",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/maqueta/img/trompeta.jpg"
+
+    }
+]  

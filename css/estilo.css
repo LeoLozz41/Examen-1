@@ -1,0 +1,62 @@
+html,body {
+    height:100%;
+}
+
+header {
+    display:block;
+    background:#edff9c;
+    padding:10px 0px;
+    text-align: center;
+}
+h1{
+    color: #000000;
+    text-align: center;
+}
+h3{
+    color: rgb(3, 3, 3);
+    text-align: center;
+}
+section {
+    width: 100%;
+    background: #ccc;
+    float: left;
+    overflow: auto;
+    padding-bottom: 60px;
+    padding-top:30px;
+}
+
+.contenedor {
+    background-color: #c2ff7c;
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    height: auto; 
+    margin-bottom: 50px;
+}
+th{
+    color: #000000;
+}
+.template-card{
+    color: #000000;
+}
+aside {
+    float: right;
+    border: 1px solid red;
+    width: 19%;
+    border: 1px solid red;
+    
+}
+
+.mi-footer {
+    position: relative;
+    margin-top: -50px;
+    height: 40px; 
+    padding:5px 0px;
+    clear: both;
+    background: #d568df;
+    text-align: center;
+    color: #fff;
+}
+figure {
+    display: table; margin: 0 auto;
+}
